@@ -8,12 +8,12 @@ I am a full-stack developer from Bangladesh. I love programming, football, and t
   <img src="https://komarev.com/ghpvc/?username=towhidulislamalif&label=Profile%20views&color=0e75b6&style=flat" alt="towhidulislamalif" />
 </p>
 
-<img src="https://github.com/towhidulislamalif/towhidulislamalif/assets/94123993/0909481b-c0ed-45d7-99ab-0b1a99786d29" alt="frontend developer" width="400px" align="right" style="margin-left: 20px;" />
+<img src="https://github.com/towhidulislamalif/towhidulislamalif/assets/94123993/c4fc1745-5861-4492-b116-8d8bce2de61e" alt="frontend developer" width="400px" align="right" style="margin-left: 20px;" />
 
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on something cool 😎
-- 🌱 I’m currently learning PostgreSQL with a focus on [add brief context]
+- 🌱 I’m currently learning PostgreSQL
 - 💬 Ask me anything, I'm happy to help!
 - 📫 How to reach me: [towhidulislamalif@gmail.com](mailto:towhidulislamalif@gmail.com)
 - 😄 Pronouns: he/him
