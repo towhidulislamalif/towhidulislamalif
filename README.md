@@ -4,10 +4,6 @@ I am a full-stack developer from Bangladesh. I enjoy coding, love football, and 
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:towhidulislamalif@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/touhidul-islam-alif/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/towhidul_alif)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=towhidulislamalif&label=Profile%20views&color=0e75b6&style=flat" alt="towhidulislamalif" />
-</p>
-
 <img src="https://github.com/towhidulislamalif/towhidulislamalif/assets/94123993/c4fc1745-5861-4492-b116-8d8bce2de61e" alt="frontend developer" width="400px" align="right" style="margin-left: 20px;" />
 
 <!-- Here are some ideas to get you started: -->
